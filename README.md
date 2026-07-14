@@ -20,7 +20,7 @@
 
 ---
 
-## 🖼️ Preview
+##  Preview
 
 <p align="center">
   <!-- Add your screenshot here -->
@@ -29,7 +29,7 @@
 
 ---
 
-## ✨ Overview
+##  Overview
 
 An interactive **drum kit web application** that allows users to play different drum sounds using **keyboard keys or mouse clicks**.
 
@@ -37,7 +37,7 @@ This project is designed to demonstrate **event handling, DOM manipulation, and 
 
 ---
 
-## 🚀 Features
+##  Features
 
 * 🎵 Play drum sounds using keyboard keys
 * 🖱️ Click buttons to trigger sounds
@@ -47,7 +47,7 @@ This project is designed to demonstrate **event handling, DOM manipulation, and 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose                |
 | ---------- | ---------------------- |
